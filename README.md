@@ -1,5 +1,5 @@
-fbxapitool
-==========
+qcmenu
+======
 
 This package offers a simple menu interface build on top of curses library.
 
